@@ -4,6 +4,8 @@
 body {
   width: 900px;
   margin: 10px auto;
+  font-family:Oswald;
+  font-size: 14px;
 }
 
 nav {
@@ -17,6 +19,10 @@ main {
   columns: 420px 2;
   column-gap: 60px;
 }
+h1 {
+   font-family: "Bungee Inline"
+}
+h1{font-size:46px}
 section {
   margin-bottom: 20px;
   padding: 10px;
@@ -53,3 +59,4 @@ dd::after {
 /* Right-align the text of the address/footer */
 
 /* draw a 2px solid black border around the starters and desserts sections of the menu */
+
